@@ -22,14 +22,15 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
+
+
 ## About  The Script
 A script to access Email using IMAP server by imaplib library in Python 3.7+
 
 
-### Built With
+### Written in
 
-* [Python](www.python.org)
+* [Python](https://www.python.org)
 
 
 ## Getting Started
