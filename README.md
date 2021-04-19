@@ -1,4 +1,4 @@
-[![Instagram][lnsta-shield]][insta-url]
+[![Instagram][insta-shield]][insta-url]
 
 [![Python][Python-shield]][Python-url]
 
@@ -100,7 +100,7 @@ Project Link: [Repo-Link](https://github.com/amsynist/gmail_counter_deleter)
 * [imaplib](https://docs.python.org/3/library/imaplib.html)
 * [re](https://docs.python.org/3/library/re.html)
 
-[Insta-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[insta-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [insta-url]: https://www.nstagram.com/zeronedinsta
 
 [Python-shield]:
