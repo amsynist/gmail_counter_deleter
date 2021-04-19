@@ -101,7 +101,7 @@ Project Link: [Repo-Link](https://github.com/amsynist/gmail_counter_deleter)
 * [re](https://docs.python.org/3/library/re.html)
 
 [insta-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-[insta-url]: https://www.nstagram.com/zeronedinsta
+[insta-url]: https://www.instagram.com/zeronedinsta
 
 [Python-shield]:
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
