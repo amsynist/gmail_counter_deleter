@@ -9,10 +9,10 @@
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">EMAIL_EASY</h3>
+  <h3 align="center">EMAIL-EASY</h3>
 
   <p align="center">
-    A Python Script for counting number of emails in a folder and deleting totals emails from the folder of any Gmail(Others emails too)
+    A Python Script to access Email via interpreter and automate actions like deleting,counting emails in a folder 
     <br />
     <br />
 
