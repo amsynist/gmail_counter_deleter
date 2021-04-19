@@ -12,7 +12,7 @@
   <h3 align="center">EMAIL-EASY</h3>
 
   <p align="center">
-    A Python Script to access Email via interpreter and automate actions like deleting,counting emails in a folder 
+    A Python Script to access Email via interpreter and automate certain actions
     <br />
     <br />
 
@@ -25,7 +25,7 @@
 
 
 ## About  The Script
-A script to access Email using IMAP server by imaplib library in Python 3.7+
+A script to access Email using IMAP server by imaplib library in Python 3.7+ to delete,count emails in a folder of Gmail or any other Email supported
 
 
 ### Written in
