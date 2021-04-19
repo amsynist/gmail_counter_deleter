@@ -6,8 +6,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/amsynist/gmail_counter_deleter.py">
-    <img src="i
-logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">EMAIL_EASY</h3>
