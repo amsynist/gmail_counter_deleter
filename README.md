@@ -1,6 +1,6 @@
 [![Instagram][lnsta-shield]][insta-url]
 
-[![LinkedIn][Python-shield]][Python-url]
+[![Python][Python-shield]][Python-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -101,7 +101,7 @@ Project Link: [Repo-Link](https://github.com/amsynist/gmail_counter_deleter)
 * [re](https://docs.python.org/3/library/re.html)
 
 [Insta-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-[instag-url]: https://www.nstagram.com/zeronedinsta
+[insta-url]: https://www.nstagram.com/zeronedinsta
 
 [Python-shield]:
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
