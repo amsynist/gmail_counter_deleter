@@ -1,11 +1,12 @@
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Instagram][lnsta-shield]][insta-url]
+
+[![LinkedIn][Python-shield]][Python-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/amsynist/gmail_counter_deleter.py">
-    <img src="folder-teal-script-icon.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">EMAIL_EASY</h3>
@@ -99,10 +100,12 @@ Project Link: [Repo-Link](https://github.com/amsynist/gmail_counter_deleter)
 * [imaplib](https://docs.python.org/3/library/imaplib.html)
 * [re](https://docs.python.org/3/library/re.html)
 
+[Insta-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[instag-url]: https://www.nstagram.com/zeronedinsta
 
+[Python-shield]:
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[Python-Url]:
+https://www.python.org
 
-[instagram-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[instagram-url]: https://www.nstagram.com/zeronedinsta
-[product-screenshot]: 
-Image.png
 
