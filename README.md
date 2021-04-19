@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/amsynist/gmail_counter_deleter.py">
-    <img src="folder_teal_script_icon.png" alt="Logo" width="80" height="80">
+    <img src="folder-teal-script-icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">EMAIL_EASY</h3>
@@ -104,5 +104,5 @@ Project Link: [Repo-Link](https://github.com/amsynist/gmail_counter_deleter)
 [instagram-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [instagram-url]: https://www.nstagram.com/zeronedinsta
 [product-screenshot]: 
-Images.png
+Image.png
 
