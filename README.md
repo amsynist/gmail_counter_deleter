@@ -92,7 +92,7 @@ Project Link: [Repo-Link](https://github.com/amsynist/gmail_counter_deleter)
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
+
 ## Libraries and Modules Used
 
 * [imaplib](https://docs.python.org/3/library/imaplib.html)
